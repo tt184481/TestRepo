@@ -1,0 +1,9 @@
+C:\Users\ttval\source\repos\BogProject\Resources\bin\Debug\netcoreapp3.1\Resources.deps.json
+C:\Users\ttval\source\repos\BogProject\Resources\bin\Debug\netcoreapp3.1\Resources.dll
+C:\Users\ttval\source\repos\BogProject\Resources\bin\Debug\netcoreapp3.1\Resources.pdb
+C:\Users\ttval\source\repos\BogProject\Resources\obj\Debug\netcoreapp3.1\Resources.csprojAssemblyReference.cache
+C:\Users\ttval\source\repos\BogProject\Resources\obj\Debug\netcoreapp3.1\Resources.AssemblyInfoInputs.cache
+C:\Users\ttval\source\repos\BogProject\Resources\obj\Debug\netcoreapp3.1\Resources.AssemblyInfo.cs
+C:\Users\ttval\source\repos\BogProject\Resources\obj\Debug\netcoreapp3.1\Resources.dll
+C:\Users\ttval\source\repos\BogProject\Resources\obj\Debug\netcoreapp3.1\Resources.pdb
+C:\Users\ttval\source\repos\BogProject\Resources\obj\Debug\netcoreapp3.1\Resources.csproj.CoreCompileInputs.cache
